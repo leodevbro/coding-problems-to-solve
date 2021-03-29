@@ -1,6 +1,6 @@
 # Coding Problems To Solve
 
-##1)<br />
+## 1)<br />
 Very simple:
 React.js, JavaScript, TypeScript
 
@@ -20,11 +20,12 @@ https://codesandbox.io/s/epic-stonebraker-po87l?file=/src/App.tsx
 
 <br />
 <br />
-##2)<br />
+
+## 2)<br />
 Let the input of textarea survive after tab refresh. And also, if all tabs are closed, then if one tab opens again, the input text must be the last changed text of previously opened tabs.<br />
 React.js, JavaScript, TypeScript
 
-**DO NOT edit any code, exapt the body of the useStateOfSessionAndLocalStorage hook**
+**DO NOT edit any code, exapt the body of the useStateOfSessionAndLocalStorage hook**<br />
 Problem:
 https://codesandbox.io/s/priceless-rubin-wpu5l?file=/src/App.tsx
 
