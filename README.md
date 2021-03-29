@@ -24,7 +24,7 @@ https://codesandbox.io/s/epic-stonebraker-po87l?file=/src/App.tsx
 Let the input of textarea survive after tab refresh, even for duplicated tabs. And also, if all tabs are closed, then if one tab opens again, the input text must be the last changed text of previous tabs.<br />
 React.js, JavaScript, TypeScript
 
-**DO NOT edit any code, exapt the body of the `useStateOfSessionAndLocalStorage` hook**<br />
+**DO NOT edit any code, except the body of the `useStateOfSessionAndLocalStorage` hook**<br />
 Problem:
 https://codesandbox.io/s/priceless-rubin-wpu5l?file=/src/App.tsx
 
