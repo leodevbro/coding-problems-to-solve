@@ -21,7 +21,7 @@ https://codesandbox.io/s/epic-stonebraker-po87l?file=/src/App.tsx
 <br />
 
 ## 2)<br />
-Let the input of textarea survive after tab refresh, even for duplicated tabs. And also, if all tabs are closed, then if one tab opens again, the input text must be the last changed text of previous tabs.<br />
+Let the inputs of the textareas survive after tab refresh, even for duplicated tabs, and the inputs must be independent of each other (typing in one textarea should not cause changing the input in the neighboring textareas or in the textareas of the neighboring tabs). And also, if all tabs are closed, then if one tab opens again, the input text must be the very last changed text of the textareas of the previous tabs.<br />
 React.js, JavaScript, TypeScript
 
 **DO NOT edit any code, except the body of the `useStateOfSessionAndLocalStorage` hook**<br />
