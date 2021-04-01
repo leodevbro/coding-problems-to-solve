@@ -4,7 +4,7 @@
 Very simple:
 React.js, JavaScript, TypeScript
 
-DO NOT edit any code.
+DO NOT edit any code, except:
 Just add little code after this line:
 ```typescript
 let myRef = selectedDate;
