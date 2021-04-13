@@ -36,8 +36,8 @@ https://codesandbox.io/s/elated-dirac-8qxvf?file=/src/App.tsx
 
 ## 3)<br />
 The countUp must count from 0 to 20000 in about 10-15 seconds.<br />
-Rule 1) from 0 to 19990 countUp must be linear in time (useEasing={false}).<br />
-Rule 2) from 19991 to 20000 countUp must be smoothly slowing down (non-linear) in time (useEasing={true}).<br />
+Rule 1) from 0 to 19990 countUp must be linear (`useEasing={false}`) in time .<br />
+Rule 2) from 19991 to 20000 countUp must be smoothly slowing down (non-linear --> `useEasing={true}`) in time of about 5-10 seconds.<br />
 
 First rule is already working, now make the second rule work too.
 
